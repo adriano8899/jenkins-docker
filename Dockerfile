@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:lts
+FROM mluckenbill/jenkins-arm
 
 
 # Install docker following the official instructions
